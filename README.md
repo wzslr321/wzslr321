@@ -4,9 +4,9 @@ I am a High School student, learning programming on my own. I have tried to get 
     There is no other such a good language as <b> Javascript, especially Node.js 😎 </b>
     
 <p> I have started my journey with programming in October 2019. First steps were tough...</p>
-<img src = "/wzslr321/images/readmeimage.png" width=50% height = 50%> 
+<img src = "https://user-images.githubusercontent.com/59893892/91436160-d588a880-e867-11ea-9f8e-4b257dd68aab.png" width=50% height = 50%> 
 <p> After a year, my skill has improved, and my pages finally do not look like a total crap! </p>
-<img src = "/wzslr321/images/readmeimage2.png" width = 50% height = 50%>
+<img src = "https://user-images.githubusercontent.com/59893892/91436094-bab63400-e867-11ea-9f65-94361126b1fc.png" width = 50% height = 50%>
 <p> I prefer back-end coding, with Node.js, but I want to become <b> MERN </b> full stack developer, so I have to get into React. I already have spent  a dozen hours with TypeScript, and it wasn`t so bad 😏 </p>
 
 <p> I plan to make some cool repositories, so hopefully everyone will find any useful line of code for himself ✋
