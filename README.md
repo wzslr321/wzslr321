@@ -1,4 +1,15 @@
-### Hi there 👋
+### Welcome on my profile! 👋
+
+I am a High School student, learning programming on my own. I have tried to get a knowledge in C#, C++, Python basics, but...
+    There is no other such a good language as <b> Javascript, especially Node.js 😎 </b>
+    
+<p> I have started my journey with programming in October 2019. First steps were tough...</p>
+<img src = "images/readmeimage.png" width=50% height = 50%> 
+<p> After a year, my skill has improved, and my pages finally do not look like a total crap! </p>
+<img src = "images/readmeimage2.png" width = 50% height = 50%>
+<p> I prefer back-end coding, with Node.js, but I want to become <b> MERN </b> full stack developer, so I have to get into React. I already have spent  a dozen hours with TypeScript, and it wasn`t so bad 😏 </p>
+
+<p> I plan to make some cool repositories, so hopefully everyone will find any useful line of code for himself ✋
 
 <!--
 **wzslr321/wzslr321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
