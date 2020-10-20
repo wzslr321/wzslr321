@@ -4,10 +4,6 @@ I am a High School student, learning programming on my own. In past, I mostly fo
 
 Now, I am also into **Mobile-Apps**. I have just started my adventure with **Flutter & Dart** and in future, I would love to focus around my own Application.
 *In fact, I already have a good idea for it, hopefully it is going to work out... :-)* 
-    
-<p> I have started my journey with programming in October 2019. First steps were tough...</p>
-<img src = "https://user-images.githubusercontent.com/59893892/91436160-d588a880-e867-11ea-9f8e-4b257dd68aab.png" width=50% height = 50%> 
-
 
 **I plan to make some cool repositories, so hopefully everyone will find any useful line of code for himself!** ✋
 
