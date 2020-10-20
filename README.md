@@ -8,7 +8,9 @@
 
 #
 
-<p> I am a High School student, learning programming on my own. In past, I mostly focused on getting knowledge in Node.JS with Express, TypeScript. Back-end > Front-end 😄 </p> 
+<p> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Node.JS with Express, TypeScript. </p> 
+
+**Back-end > Front-end** 😄 
 
 #
 
@@ -16,7 +18,7 @@
 
 #
 
-Now, I am also into **Mobile-Apps**. I have just started my adventure with **Flutter & Dart** and in future, I would love to focus around my own Application.
+Recently, I am also into **Mobile-Apps**. I have just started my adventure with **Flutter & Dart** and in the future, I would love to focus around my own Application.
 *In fact, I already have a good idea for it, hopefully it is going to work out... :-)* 
 
 #
