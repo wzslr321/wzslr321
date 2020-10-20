@@ -1,7 +1,7 @@
 ### Hi, I am Wiktor and it is really nice to see You on my profile! 👋
 
 # <div>
-  <p> Contact with me easily on Discord! 
+  <p> Contact with me easily on Discord! Creatix#7777
  <a href = 'https://discord.gg/rTtMsrS'> <img alt="wzslr321's Discord" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;" width="21px" align="left"> </a>
   </p>
  </div>
