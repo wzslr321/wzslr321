@@ -8,7 +8,7 @@
 
 #
 
-<p> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Node.JS with Express, TypeScript. </p> 
+<p> I am a  High School student who learns programming on his own. In the past, I mostly focus on getting knowledge and experience in Node.JS with Express, TypeScript. </p> 
 
 **Back-end > Front-end** 😄 
 
