@@ -8,13 +8,17 @@
 
 #
 
-<p> I am a  High School student who learns programming on his own. In the past, I mostly focus on getting knowledge and experience in Node.JS with Express, TypeScript. </p> 
+<p> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Node.JS with Express, TypeScript. </p> 
+
+<p> I recently came across Golang and I really enjoyed it! I hope to create many awesome projects using it! </p> 
+
+<p> I know noSQL with MongoDB already, but I try to gain experience with SQL - PostgreSQL, also! </p> 
 
 **Back-end > Front-end** 😄 
 
 #
 
-*What Do I use ? &#10140;* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;" height="20">
+*What Do I use ? &#10140;* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width:100%;" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;" height="20"> <img src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_3.svg" height="20"> 
 
 #
 
