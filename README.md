@@ -35,7 +35,7 @@
 
 
 [![wzslr321's github stats](https://github-readme-stats.vercel.app/api?username=wzslr321&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8)
 
 
 ---
