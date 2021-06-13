@@ -44,7 +44,7 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 #
 
-  <p> Contact with me easily on  <a href = 'https://discord.gg/rTtMsrS'> <img alt="wzslr321's Discord" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;" width="21px"> </a> <b> Discord </b> --> Creatix#7777 or <b> <a href="https://twitter.com/WiktorZajc10"> <img src="https://image.flaticon.com/icons/png/512/124/124021.png" style="max-width:100%;" width="21px"> Twitter </a> </b>
+  <p> Contact with me easily on:  <center> <b> <a href="https://www.linkedin.com/in/wiktor-zajac/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" style="max-width:100%;" width="125px"> </a> </b> </cemter>
 
   </p>
 
