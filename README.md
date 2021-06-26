@@ -1,10 +1,15 @@
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
+
 <h3 align="center"> Hi, I am Wiktor and it is really nice to see You on my profile! 👋 </h3>
 
 ---
+<p align="center"> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. Currently I focus on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> is my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! </p>
 
-<p align="center"> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. Currently I focus on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> is my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! 
 
 #
+
+<br>
 
 <p> I am not a big fan of being only a 'code writer', that's the reason why I've been learning basics of <i> Assembly </i> language. I want to understand truely
 how the computer works, so I can code much better optimalized applications! </p>
@@ -36,8 +41,8 @@ how the computer works, so I can code much better optimalized applications! </p>
 #
 
 
-[![wzslr321's github stats](https://github-readme-stats.vercel.app/api?username=wzslr321&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8)
+[![wzslr321's github stats](https://github-readme-stats.vercel.app/api?username=wzslr321&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8&theme=tokyonight)
 
 
 ---
