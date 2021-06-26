@@ -13,8 +13,8 @@
 
 <p> I am not a big fan of being only a 'code writer', that's the reason why I've been learning basics of <i> Assembly </i> language. I want to understand truely
 how the computer works, so I can code much better optimalized applications! </p>
-<p> Apart from technologies pointed out above, I've also spent a lot of time on getting experience with <i> Dev-Ops stuff </i>. I always prefer my app to be
-  containerized and have better infrastructure overall. Previosuly I was using <b> Docker </b> for that, now my goal is to be confident with <b> Kubernetes </b>. I am also a <b> Linux </b> User, familiar with Arch and Ubuntu distros, so Operating Systems don't scare me either!  </p>
+<p> Apart from technologies pointed out above, I've also spent a little bit of time on getting experience with <i> Dev-Ops stuff </i>. I always prefer my app to be
+  containerized and have better infrastructure overall, with help of <b> Docker</b>. I was also a <b> Linux </b> User, for over a year, I am familiar with Arch and Ubuntu distros, so Operating Systems don't scare me either!  </p>
 
 #
   
@@ -35,8 +35,16 @@ how the computer works, so I can code much better optimalized applications! </p>
 <p> I want Flutter and Golang to be my main technologies, which I would love to work with, although the thirst for knowledge in new technologies must be satisfied, to keep myself pasionated to what I am doing </p>
 
 
-**Back-end > Front-end** 😄 
 </br>
+
+#
+
+- 🔭 I’m currently working on <b> Artiver </b> - Articles Time Saver, to which I am also looking for people to collaborate with.
+
+- ⚡ Fun fact: In the end of 2019 I didn't know how to install Windows, and I formatted USB with .iso instead of hard drive...
+- ⚡ Fun fact #2: I wanted to start programming when I was 15, but complexity of Fibonacci alghoritm in C++ scared me enough to give up for the next 2 years.
+
+<br>
 
 #
 
@@ -61,12 +69,12 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
