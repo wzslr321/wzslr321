@@ -39,6 +39,8 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 #
 
+- 💣 I try my hand at writing articles on <a href="https://wiktorzajac.medium.com"> <i> Medium </i> </a> 
+
 - 🔭 I’m currently working on <b> Artiver </b> - Articles Time Saver, to which I am also looking for people to collaborate with.
 
 - ⚡ Fun fact: In the end of 2019 I didn't know how to install Windows, and I formatted USB with .iso instead of hard drive...
