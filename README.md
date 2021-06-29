@@ -23,7 +23,7 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" style="max-width:100%;" height="25">  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" style="max-width:100%;" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" style="max-width:100%;" height="25"> <img src="https://miro.medium.com/max/256/1*X5dVOQB4nDpsLH4KSbMiIg.png" style="max-width:100%;" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="max-width:100%;" height="25"> <img src="https://gorm.io/favicon-32x32.png" style="max-width:100%;" height="25">
-<img src="https://icon2.cleanpng.com/20180402/cjw/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915d780ea2.2723311115227006374918.jpg" style="max-width:100%;" height="25"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" style="max-width:100%;" height="25"> <img src="https://w7.pngwing.com/pngs/190/922/png-transparent-kubernetes-docker-devops-lxc-mongodb-github-blue-logo-symmetry-thumbnail.png" style="max-width:100%;" height="25">
+<img src="https://icon2.cleanpng.com/20180402/cjw/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915d780ea2.2723311115227006374918.jpg" style="max-width:100%;" height="25"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" style="max-width:100%;" height="25"> 
 
 ---
 
