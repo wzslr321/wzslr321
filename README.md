@@ -50,10 +50,6 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 #
 
-<img src="https://github.com/wzslr321/wzslr321/blob/master/images/stat.svg" alt="WakaTime activity"/>
-
-#
-
 
 [![wzslr321's github stats](https://github-readme-stats.vercel.app/api?username=wzslr321&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8&theme=tokyonight)
