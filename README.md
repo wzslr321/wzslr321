@@ -48,6 +48,10 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 <br>
 
+📚 <i> My last project --> <b> <a href="https://github.com/wzslr321/glossary"> Personal Glossary </a> </b> </i>
+
+<br>
+
 #
 
 
