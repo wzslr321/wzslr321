@@ -4,15 +4,23 @@
 <h3 align="center"> Hi, I am Wiktor and it is really nice to see You on my profile! 👋 </h3>
 
 ---
-<p align="center"> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. Currently I focus on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> is my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! </p>
+<p align="center"> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. In 2020-2021 I've been mainly focusing on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> was my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! I strongly believe that correct selection of the tool for the task is one of the most important programmer's skills! </p> 
 
+
+---
+
+<p> 
+
+<i> For at least the next year, starting in September 2021 I want to try my best in fully commiting myself to C++ and Competetive Programming. I also realised how important mathematics is and I am going to progress in it as much as it is possible. I want to participate in <b>O</b>lympiad of <b>I</b>nformatics. No matter on result, I am sure that every minute spent on preparations will be a good used minute. It will definitely give me a strong foundations for <b> Machine Learning </b>  which is my dream path of career. </i> 
+
+</p>
 
 #
 
 <br>
 
 <p> I am not a big fan of being only a 'code writer', that's the reason why I've been learning basics of <i> Assembly </i> language. I want to understand truely
-how the computer works, so I can code much better optimalized applications! </p>
+how the computer works, so I can code much better optimalized applications! I also can't wait to get hands on embedded stuff- logical gates seem awesome! </p>
 <p> Apart from technologies pointed out above, I've also spent a little bit of time on getting experience with <i> Dev-Ops stuff </i>. I always prefer my app to be
   containerized and have better infrastructure overall, with help of <b> Docker</b>. I was also a <b> Linux </b> User, for over a year, I am familiar with Arch and Ubuntu distros, so Operating Systems don't scare me either!  </p>
 
@@ -30,27 +38,13 @@ how the computer works, so I can code much better optimalized applications! </p>
 
 <h4 align="center"> I truely love to learn new things and I am constantly trying to learn something new and keep my head busy! </h4>
 
-</br>
-
-<p> I want Flutter and Golang to be my main technologies, which I would love to work with, although the thirst for knowledge in new technologies must be satisfied, to keep myself pasionated to what I am doing </p>
-
-
-</br>
 
 #
 
 - 💣 I try my hand at writing articles on <a href="https://wiktorzajac.medium.com"> <i> Medium </i> </a> 
 
-- 🔭 I’m currently working on <b> Artiver </b> - Articles Time Saver, to which I am also looking for people to collaborate with.
-
 - ⚡ Fun fact: In the end of 2019 I didn't know how to install Windows, and I formatted USB with .iso instead of hard drive...
 - ⚡ Fun fact #2: I wanted to start programming when I was 15, but complexity of Fibonacci alghoritm in C++ scared me enough to give up for the next 2 years.
-
-<br>
-
-📚 <i> My last project --> <b> <a href="https://github.com/wzslr321/glossary"> Personal Glossary </a> </b> </i>
-
-<br>
 
 #
 
