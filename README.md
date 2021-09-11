@@ -1,11 +1,19 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
-
-<h3 align="center"> Hi, I am Wiktor and it is really nice to see You on my profile! 👋 </h3>
+<h3> Hi, I am Wiktor and I hope you are having an amazing day! 👋 </h3>
 
 ---
-<p align="center"> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. In 2020-2021 I've been mainly focusing on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> was my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! I strongly believe that correct selection of the tool for the task is one of the most important programmer's skills! </p> 
 
+<div width="50%">
+ 
+  <br>
+  
+<img align="right" width="50%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
+  
+<p> I am a  High School student who learns programming on his own. In the past, I have mostly focused on getting knowledge and experience in Web Development. In 2020-2021 I've been mainly focusing on <b> Mobile Development with Flutter </b>. When it comes to complex <i> <b> Back-End </i>, Golang </b> was my favourite choice, although I am not such a masochist to choose it over simplicity, which <b> Firebase </b> provides! I strongly believe that correct selection of the tool for the task is one of the most important programmer's skills! </p> 
+</div>
+
+<br>
+<br>
 
 ---
 
@@ -15,14 +23,31 @@
 
 </p>
 
+<br>
+
+<p align="center"> 
+<i> "We want to make the promise of science finction come to life" </i>
+</p>
+
+<p align="right"> <i> Gui Cavalcanti, Megabots </i>
+
 #
 
 <br>
 
 <p> I am not a big fan of being only a 'code writer', that's the reason why I've been learning basics of <i> Assembly </i> language. I want to understand truely
-how the computer works, so I can code much better optimalized applications! I also can't wait to get hands on embedded stuff- logical gates seem awesome! </p>
-<p> Apart from technologies pointed out above, I've also spent a little bit of time on getting experience with <i> Dev-Ops stuff </i>. I always prefer my app to be
-  containerized and have better infrastructure overall, with help of <b> Docker</b>. I was also a <b> Linux </b> User, for over a year, I am familiar with Arch and Ubuntu distros, so Operating Systems don't scare me either!  </p>
+how the computer works, so I can code much better optimalized applications! I also can't wait to get hands on embedded stuff- logical gates seem awesome!
+I believe that nowadays, when new programming languages aim for a higher level of abstraction, we all should stop for a minute to examine how things work underneath. 
+<b> Programming skills shouldn't be defined by how many problem solutions we do remember, but how many solutions we are ready to create. </b>
+ </p>
+
+<br>
+
+<p align="center"> 
+<i> "If you can't explain it simply, you don't understand it well enough." </i>
+</p>
+
+<p align="right"> <i> Albert Einstein </i>
 
 #
   
