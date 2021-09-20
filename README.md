@@ -26,7 +26,7 @@
 <br>
 
 <p align="center"> 
-<i> "We want to make the promise of science finction come to life" </i>
+<i> "We want to make the promise of science fiction come to life" </i>
 </p>
 
 <p align="right"> <i> Gui Cavalcanti, Megabots </i>
