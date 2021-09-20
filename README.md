@@ -69,7 +69,7 @@ I believe that nowadays, when new programming languages aim for a higher level o
 - 💣 I try my hand at writing articles on <a href="https://wiktorzajac.medium.com"> <i> Medium </i> </a> 
 
 - ⚡ Fun fact: In the end of 2019 I didn't know how to install Windows, and I formatted USB with .iso instead of hard drive...
-- ⚡ Fun fact #2: I wanted to start programming when I was 15, but complexity of Fibonacci alghoritm in C++ scared me enough to give up for the next 2 years.
+- ⚡ Fun fact #2: I wanted to start programming when I was 13, but complexity of Fibonacci alghoritm in C++ scared me enough to give up for the next 2 years.
 
 #
 
