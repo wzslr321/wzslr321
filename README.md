@@ -85,7 +85,7 @@ I believe that nowadays, when new programming languages aim for a higher level o
 
 #
 
-<img src="https://camo.githubusercontent.com/0234fe069daa17615bd7635d917d2a4cb0d1ce7b30243d068ef6c357b5bf54ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d48796433723126636f6c6f723d383430304631" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=wzslr321&amp;color=8400F1" style="max-width: 100%;">
+![](https://komarev.com/ghpvc/?username=wzslr321&color=green)
 
 <!--
 **wzslr321/wzslr321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
