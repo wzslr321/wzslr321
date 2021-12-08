@@ -52,11 +52,8 @@ I believe that nowadays, when new programming languages aim for a higher level o
 #
   
 #### What am I familiar with ?
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;" height="25"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" style="max-width:100%;" height="25"> <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" style="max-width:100%;" height="25">
 
-
-<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" style="max-width:100%;" height="25">  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" style="max-width:100%;" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" style="max-width:100%;" height="25"> <img src="https://miro.medium.com/max/256/1*X5dVOQB4nDpsLH4KSbMiIg.png" style="max-width:100%;" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="max-width:100%;" height="25"> <img src="https://gorm.io/favicon-32x32.png" style="max-width:100%;" height="25">
-<img src="https://icon2.cleanpng.com/20180402/cjw/kisspng-mongodb-inc-computer-software-business-software-d-bay-leaves-5ac2915d780ea2.2723311115227006374918.jpg" style="max-width:100%;" height="25"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" style="max-width:100%;" height="25"> 
+- My repositories can answer this question for me, I hope... :> 
 
 ---
 
@@ -88,6 +85,7 @@ I believe that nowadays, when new programming languages aim for a higher level o
 
 #
 
+<img src="https://camo.githubusercontent.com/0234fe069daa17615bd7635d917d2a4cb0d1ce7b30243d068ef6c357b5bf54ee/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d48796433723126636f6c6f723d383430304631" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=wzslr321&amp;color=8400F1" style="max-width: 100%;">
 
 <!--
 **wzslr321/wzslr321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
