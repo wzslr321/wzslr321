@@ -77,6 +77,11 @@ I believe that nowadays, when new programming languages aim for a higher level o
 
 ---
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wzslr321&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B)](https://git.io/streak-stats)
+
+---
+
 #
 
   <p> Contact with me easily on:  <center> <b> <a href="https://www.linkedin.com/in/wiktor-zajac/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" style="max-width:100%;" width="125px"> </a> </b> </cemter>
