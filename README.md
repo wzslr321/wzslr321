@@ -68,19 +68,14 @@ I believe that nowadays, when new programming languages aim for a higher level o
 - ⚡ Fun fact: In the end of 2019 I didn't know how to install Windows, and I formatted USB with .iso instead of hard drive...
 - ⚡ Fun fact #2: I wanted to start programming when I was 13, but complexity of Fibonacci alghoritm in C++ scared me enough to give up for the next 2 years.
 
-#
-
-
-[![wzslr321's github stats](https://github-readme-stats.vercel.app/api?username=wzslr321&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8&theme=tokyonight)
-
-
 ---
 
-
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzslr321&layout=compact&langs_count=8&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wzslr321&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B)](https://git.io/streak-stats)
 
+
 ---
+
 
 #
 
