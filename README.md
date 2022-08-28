@@ -76,6 +76,24 @@ I believe that nowadays, when new programming languages aim for a higher level o
 
 ---
 
+<b>&#128200; Algorithms </b>
+<p float="left">
+<img height="253em" src="https://leetcard.jacoblin.cool/wzslr321?theme=light&font=Karma&ext=contest" />
+<img height="260em" src="https://raw.githubusercontent.com/wzslr321/cf-stats/main/output/light_card.svg" />
+</p>
+
+---
+
+<h3> My article about how to learn flutter! </h3>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wiktorzajac/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wiktorzajac/1" alt="My article about how to learn flutter!">
+
+---
+
+My first hands-on webinar, where I show basics of Flutter ! PL 🇵🇱
+
+
+[![Watch the video](https://i.ytimg.com/vi/TTNsW78ul-k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo1o02ILjFdu00Q5wtUVkH-e4viA)](https://www.youtube.com/watch?v=TTNsW78ul-k)
 
 #
 
