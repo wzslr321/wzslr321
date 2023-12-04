@@ -48,7 +48,6 @@
 
 - In the end of 2019 I didn't know how to install Windows, and I formatted a USB with .iso instead of a hard drive...
 - I wanted to start programming when I was 13, but the complexity of Fibonacci algorithm in C++ scared me enough to give up for the next two years
-- I failed to get into Deep Learning 5 times now and 5th attempt definitely wasn't the last one
 
 #
 
