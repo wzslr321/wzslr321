@@ -1,5 +1,3 @@
----
-
 <div width="50%">
  
   <br>
@@ -15,17 +13,3 @@ I am rather a <i>Jack of all trades, master of none</i> type of guy, though I kn
 after few years spent with it. 
 
 Currently trying to build some cool stuff for devs, using Rust
-<!--
-**wzslr321/wzslr321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
