@@ -2,7 +2,7 @@
  
   <br>
   
-<img align="right" width="50%" src="https://github.com/user-attachments/assets/ad4cb01d-79fd-4096-a292-7de6085268ce">
+<img align="right" width="50%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ3ZHBpeGQ0dW11eGtvdG90aGg1aDVkMG8wZzNwNDRpbjQyam5xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O8eymMZJZbexLi1ZFU/giphy.gif">
   
 <p> I am a Computer Science student @ PJAIT and I work full-time as a Flutter Developer. </p>
 <p>
