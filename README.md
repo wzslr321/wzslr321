@@ -4,7 +4,7 @@
   
 <img align="right" width="50%" src="https://github.com/user-attachments/assets/ad4cb01d-79fd-4096-a292-7de6085268ce">
   
-<p> I am a Computer Science student @ Polish-Japanese Academy of Information Technology in Warsaw, Poland. I currently work full-time as a Flutter Developer. </p>
+<p> I am a Computer Science student @ PJAIT & I work full-time as a Flutter Developer. </p>
 <p>
  <b>Neovim</b> is the only valid choice for writing code. 
 </p>
