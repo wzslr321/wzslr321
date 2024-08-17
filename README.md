@@ -1,6 +1,3 @@
-
-<h3> 👋 </h3>
-
 ---
 
 <div width="50%">
@@ -18,8 +15,6 @@ I am rather a <i>Jack of all trades, master of none</i> type of guy, though I kn
 after few years spent with it. 
 
 Currently trying to build some cool stuff for devs, using Rust
-
-#### You can reach out to me via <a href="https://www.linkedin.com/in/wiktor-zajac/"> LinkedIn </a> 
 <!--
 **wzslr321/wzslr321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
