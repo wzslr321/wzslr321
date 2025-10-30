@@ -12,4 +12,4 @@
 I am rather a <i>Jack of all trades, master of none</i> type of guy, though I know Flutter & Dart pretty well
 after few years spent with it. 
 
-Currently trying to build some cool stuff for devs, using Rust
+Currently trying to build some cool stuff for devs - [PullQA](https://www.pullqa.dev/)
