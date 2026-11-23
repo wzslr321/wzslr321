@@ -10,4 +10,4 @@
 </p>
 
 I am rather a <i>Jack of all trades, master of none</i> type of guy, though I know Flutter & Dart pretty well
-after few years spent with it. 
+after few years spent with it. Currently focusing on AI Engineering.
